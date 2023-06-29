@@ -1,0 +1,1 @@
+python TCP/train.py --root_dir_train /hpi/fs00/share/fg-giese/masterproject_SoSe2023/data/generated_train --root_dir_val /hpi/fs00/share/fg-giese/masterproject_SoSe2023/data/generated_val
