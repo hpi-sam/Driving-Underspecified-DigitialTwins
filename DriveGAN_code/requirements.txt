@@ -1,0 +1,10 @@
+termcolor
+opencv-python
+moviepy
+scikit-image
+IPython
+tornado
+simplejson
+torch==1.12.0
+torchvision==0.13.0
+tensorboard
